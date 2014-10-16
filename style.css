@@ -33,13 +33,7 @@ font-size:20px;
 text-decoration:none;
 
 }	
-.fb-like{position:fixed;top:15px;right:50px;z-index:5;}
-nav ul li a:hover{
-color:black;
-font-size:20px;
-text-decoration:none;
 
-}
 .scrollTo.selected{
 color:red;
 
