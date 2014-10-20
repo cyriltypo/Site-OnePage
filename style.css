@@ -1,13 +1,7 @@
 body{}
+header{background-color:black;width:100%;height:150px:position:0px;left:0px;position:fixed;}
 
-nav{
-position:fixed;
-width:100%;
-height:80px;
-top:0px;
-left:0px;z-index:4;border-bottom:2px solid blue;
 
-}
 #titre-site{
 width:150px;
 font-size:50px;
@@ -15,6 +9,17 @@ color:#4535EB;
 font-weight:bold;
 position:fixed;
 }
+
+
+nav{
+position:fixed;
+width:100%;
+height:80px;
+top:0px;
+left:0px;z-index:4;border-bottom:2px solid blue;
+background-color:black;
+}
+
 
 nav ul{position:relative;left:300px;}
 	
