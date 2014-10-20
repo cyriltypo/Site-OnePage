@@ -33,15 +33,21 @@ border-right:;
 }	
 
 nav ul li a{
-color:blue;
+color:white;
 font-size:20px;
 text-decoration:none;
 
 }	
 
+nav ul li a:hover{
+color:white;
+font-size:20px;
+text-decoration:underline;
+
+}
 .scrollTo.selected{
 color:red;
-
+text-decoration:underline;
 }
 .section-page{
 width:900px;height:700px;}
