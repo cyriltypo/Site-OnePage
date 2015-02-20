@@ -8,3 +8,5 @@ test du push
 
 test du pull
 test 2 du pull gfi
+
+test 3 gfi
